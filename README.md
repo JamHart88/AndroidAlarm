@@ -6,9 +6,9 @@ A simple yet customizable alarm clock application for Android, built with modern
 
 *   **Digital Clock Display**: Shows the current time on a clean, dark-themed interface.
 *   **Alarm Functionality**: Easily set, change, and toggle alarms.
-*   **Customizable Brightness**: Adjust screen brightness separately for daytime and nighttime.
+*   **Customizable Brightness**: Adjust screen brightness separately for daytime and nighttime. You can set a preferred brightness level for both day and night modes, and the app will automatically switch between them.
 *   **Sound Selection**: Choose from a variety of built-in alarm sounds.
-*   **Smart Alarm Setting**: The app warns you if you're setting an alarm for a weekend or a federal holiday, giving you the option to confirm.
+*   **Smart Alarm Setting**: The app warns you if you're setting an alarm for a weekend or a federal holiday, giving you the option to confirm. This helps prevent accidental alarms on your days off.
 *   **Modern UI**: A beautiful and intuitive user interface built entirely with Jetpack Compose.
 
 ## 🚀 How to Use
@@ -20,6 +20,13 @@ A simple yet customizable alarm clock application for Android, built with modern
     *   **Brightness**: Tap the rightmost icon to adjust the screen brightness.
 3.  The controls at the bottom change based on the current mode (setting alarm, adjusting brightness, or default).
 4.  The main alarm toggle button at the bottom allows you to activate or deactivate the alarm.
+
+## 🎯 Target Device
+
+This application was designed and tested for a **Samsung Galaxy Tab A (2016)** running **LineageOS**. The screen resolution of this device is **800 x 1280 pixels**.
+
+*   **Minimum Android Version**: Android 7.1 (API Level 25)
+*   **Target Android Version**: Android 15 (API Level 36)
 
 ## 🛠️ Tech Stack
 
